@@ -1,4 +1,4 @@
-# Exploring Langchain
+# Querying SQL database using langchain
 
 This is a test repo designed only to see and experiment with various langchain features
 
@@ -10,4 +10,4 @@ This is a test repo designed only to see and experiment with various langchain f
 
     streamlit run main.py
     
-
+This is a recreation of a [codebasics tutorial](https://github.com/codebasics/langchain/tree/main/4_sqldb_tshirts) 
